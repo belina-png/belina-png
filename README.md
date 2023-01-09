@@ -2,10 +2,6 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently on my final year at Business Intelligence and Analytics major
-
-- 🌱 I’m currently learning Machine Learning and Natural Language Processing 🧠
-
 - 🤘 Hopefully, I will be able to share my notes/records on ML & DBN to git consistently📚💡
 
 - ⚡ Fun fact: I'm planning my master degree in Computer Science and play piano well 🎹 😄
