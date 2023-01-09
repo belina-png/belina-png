@@ -6,10 +6,6 @@
 
 - ⚡ Fun fact: I'm planning my master degree in Computer Science and play piano well 🎹 😄
 
-![image](https://user-images.githubusercontent.com/78548649/200026698-00fc4b6c-2441-4582-92a4-1b2768e14e86.png)
-
-
-
 <!--
 **belina-png/belina-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
