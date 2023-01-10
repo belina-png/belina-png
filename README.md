@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-- 🤘 Hopefully, I will be able to share my notes/records on ML & DBN to git consistently📚💡
+- 🤘 Hopefully, I will be able to share my notes/records on ML & DBMS to git consistently📚💡
 
 - ⚡ Fun fact: I'm planning my master degree in Computer Science and play piano well 🎹 😄
 
